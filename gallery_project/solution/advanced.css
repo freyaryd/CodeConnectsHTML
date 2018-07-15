@@ -1,0 +1,30 @@
+.desc{
+  font-weight: bold;
+}
+
+img, p, h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.red{
+  border: 5px solid red;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-red{
+  color:red;
+}
+
+.yellow{
+  border: 5px solid yellow;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.text-yellow{
+  color: yellow;
+}
